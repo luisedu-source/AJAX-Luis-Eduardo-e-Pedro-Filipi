@@ -1,1 +1,1 @@
-# AJAX---Derik-e-Thiago
+# AJAX Luis Eduardo e Pedro Filipi
